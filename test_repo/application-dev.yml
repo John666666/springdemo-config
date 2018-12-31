@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: '{cyipher}AQBIy9NVcQFaxhp5HRqbnjSM3N/v7i2SNnux4BRzM7+k31IWrlJZO2r1jCe6zD0H4GWqpSba8x0NalmgkB6dbJx6txAAV+kkI9Lq6nGdxCEUM5dttCBjL0IXXHd0CUcYOMPtaIsUpb6t3xOxQzoWWJAXvxgtlzVGXHPKUrzKl9Oqzo2TuiVwxUAVGzAaBmo6IYTG7VoTM489h39T/brsqkCTDMHybUyuM1CJ74XfZ/6k9fZSOn5qd+MsS5+HTUCLn7P9j3+sdd8RQgtV5D4VVCBLpiT+XPGYdJetR9MGB4t/2B71N3DyCFwxsNZNdqb7rZZEnN5Nb42zmU4ZC4quQRQrdXo0WjEbn7zx0TIja1L1i0Qtl4HJN3DR7gVzilG62uo='
+

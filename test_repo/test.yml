@@ -1,0 +1,7 @@
+tag: Hello_default_master
+app_name: walking
+auth:
+  username: john
+  #password: '{cipher}e582cdb7c9de41811ee49026319421d8af881f559474a2a09f2acba34640fd04'
+  password: '{cipher}AQCjbKWOGrtCMGH8BQD08nFt3V0PhGDa0eSROEcOXMmhNrWz7y6U7c03jyDYgCSSgGLlwwyBzhHKL9sH7McXvMyQhAMQRXqHAOMXY+QonwJdYHfsvJtjUshx5Ovh66JEwcVLSB7+AANtmNpWSKw//9u1kMhcUUbpKJJgoDxWsvnkK9TezadJ/sB4YKoztNgZ199OdJzDCegj1pVgzGemqwFAqTwFGoZNbK82eT9mePM2qKh0gojgbEmTTAwJYG2Gt7/njAgaM44JXDCYHcNoRs/lNIevwNbogfEH/ZskouSqOS6KDspUODT5VxH7X1tRHQVzdQwBszeWOZzoL/jMO4fZ5/9TzRLC/wLMSxeR4dD3wK1IDLawEpKoltWqePraKUI='
+
