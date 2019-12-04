@@ -11,4 +11,4 @@ eureka:
     instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
     hostname: node1.john.com
 
-password: '{cipher}74e434266c7eb7fbf57bb87b4ccd1e822ccacee561112268924dc8db1aced6ec'
+password: '{cipher}82fdeda59ac02798172dd284e8fa3f1e42caefd77e88d004072e40ebb99e9726'
