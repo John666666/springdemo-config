@@ -10,3 +10,5 @@ eureka:
     prefer-ip-address: true #在某些情况下，Eureka优先使用IP地址而不是主机名。设置为true，当应用程序向eureka注册时，它将使用其IP地址而不是其主机名
     instance-id: ${spring.application.name}:${spring.application.instance_id:${server.port}}
     hostname: node1.john.com
+
+password: '{cipher}fda42b8eeea74610ce735bece04bd9cad30f113cacff7264ae16ca21efe024ec'
